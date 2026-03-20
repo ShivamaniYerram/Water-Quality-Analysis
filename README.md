@@ -81,9 +81,12 @@ Year-wise comparison (2020 vs 2021)
 
 State-wise analysis
 
+pH Min vs Max comparison
+
 Dashboard - https://github.com/ShivamaniYerram/Water-Quality-Analysis/blob/main/Water%20Quality%20Analysis%20Dashboard.png
 
-pH Min vs Max comparison
+<img width="1414" height="799" alt="image" src="https://github.com/user-attachments/assets/f8995e2b-fe92-408b-9f0f-a1294f701377" />
+
 ## Key Insights
 
 Majority of water bodies fall under Clean category (~38%)
