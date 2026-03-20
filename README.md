@@ -5,7 +5,7 @@ End-to-end Data Analytics project on Water Quality using Python (EDA) and Power 
 
 This project focuses on analyzing water quality data collected from CPCB (Central Pollution Control Board). The data was extracted from PDF format, converted into Excel, cleaned using Python, and visualized using Power BI.
 
-## Objective
+### Objective
 
 Analyze water quality parameters across different states
 
