@@ -27,6 +27,8 @@ Excel
 ### 1.Data Collection (Unstructured Data)
 Source:CPCB (Central Pollution Control Board) reports (PDF format)
 
+Unstructured Data - https://github.com/ShivamaniYerram/Water-Quality-Analysis/blob/main/Unstructured%20Data.png
+
 Data was in unstructured format:
 
 No proper table format
