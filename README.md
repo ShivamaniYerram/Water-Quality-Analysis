@@ -63,7 +63,8 @@ Pollution Category Distribution
 Year-wise comparison (2020 vs 2021)
 
 State-wise analysis
-Water Quality Analysis Dashboard.png
+
+Dashboard - https://github.com/ShivamaniYerram/Water-Quality-Analysis/blob/main/Water%20Quality%20Analysis%20Dashboard.png
 
 pH Min vs Max comparison
 ## Key Insights
