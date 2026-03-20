@@ -13,7 +13,7 @@ Identify polluted regions
 
 Build an interactive dashboard for insights
 
-## Tools & Technologies
+### Tools & Technologies
 
 Python (Pandas, NumPy, Matplotlib)
 
@@ -24,13 +24,13 @@ Power BI
 Excel
 
 Project Workflow
-1.Data Collection
+### 1.Data Collection
 
 Source: CPCB Reports (PDF)
 
 Converted PDF → Excel
 
-2️.Data Cleaning (Python - Colab)
+### 2️.Data Cleaning (Python - Colab)
 
 Removed missing values
 
@@ -40,7 +40,7 @@ Cleaned special characters (?, missing values)
 
 Converted data into structured format
 
-3️.Exploratory Data Analysis (EDA)
+### 3️.Exploratory Data Analysis (EDA)
 
 Checked distribution of:
 
@@ -52,7 +52,7 @@ DO (Dissolved Oxygen)
 
 Identified trends and anomalies
 
-4️.Dashboard Creation (Power BI)
+### 4️.Dashboard Creation (Power BI)
 
 Built interactive dashboard with:
 
