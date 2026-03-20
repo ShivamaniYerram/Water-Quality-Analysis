@@ -39,7 +39,15 @@ Inconsistent layout
 
 Missing values and symbols (?, -)
 
-### 2️.Data Cleaning (Python - Colab)
+### 2.Data Conversion (PDF → Excel)
+
+Extracted tables from PDF manually / using tools
+
+Converted into Excel format
+
+Structured Data 
+
+### 3.Data Cleaning (Python - Colab)
 
 Removed missing values
 
@@ -49,7 +57,7 @@ Cleaned special characters (?, missing values)
 
 Converted data into structured format
 
-### 3️.Exploratory Data Analysis (EDA)
+### 4.Exploratory Data Analysis (EDA)
 
 Checked distribution of:
 
@@ -61,7 +69,7 @@ DO (Dissolved Oxygen)
 
 Identified trends and anomalies
 
-### 4️.Dashboard Creation (Power BI)
+### 5.Dashboard Creation (Power BI)
 
 Built interactive dashboard with:
 
