@@ -45,7 +45,7 @@ Extracted tables from PDF manually / using tools
 
 Converted into Excel format
 
-Structured Data 
+Structured Data - https://github.com/ShivamaniYerram/Water-Quality-Analysis/blob/main/Structured%20Data.png
 
 ### 3.Data Cleaning (Python - Colab)
 
