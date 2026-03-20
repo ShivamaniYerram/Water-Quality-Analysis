@@ -24,11 +24,18 @@ Power BI
 Excel
 
 ## Project Workflow
-### 1.Data Collection
+### 1.Data Collection (Unstructured Data)
+Source:CPCB (Central Pollution Control Board) reports (PDF format)
 
-Source: CPCB Reports (PDF)
+Data was in unstructured format:
 
-Converted PDF → Excel
+No proper table format
+
+Mixed text + numbers
+
+Inconsistent layout
+
+Missing values and symbols (?, -)
 
 ### 2️.Data Cleaning (Python - Colab)
 
